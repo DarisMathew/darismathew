@@ -2,8 +2,7 @@
 
 I’m a **Mobile App Developer** specializing in **iOS Development** with over 6 years of experience in IT, building high-quality, user-centric mobile applications. With a strong foundation in **Swift**, **Objective-C**, and **Kotlin**, I am passionate about solving complex problems and delivering applications that not only meet user expectations but exceed them.
 
-- 🔭 **Currently working at Appmotion GmbH**, enhancing app performance and collaborating with cross-functional teams.
-- 🌱 **Continuously learning** the latest in mobile development, currently exploring advanced SwiftUI and Combine frameworks.
+- 🌱 **Continuously learning** the latest trends in mobile development, currently exploring advanced SwiftUI and Combine frameworks.
 - 👯 I’m always looking to collaborate on exciting open-source iOS projects or create apps that make a positive impact!
 - 👀 My zen is Video Gaming.
 - ⚡ **Fun Fact**: I started my career developing both Android and iOS apps before focusing on iOS for the last few years.
