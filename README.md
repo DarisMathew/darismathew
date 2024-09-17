@@ -5,7 +5,7 @@ I’m a **Mobile App Developer** specializing in **iOS Development** with over 6
 - 🌱 **Continuously learning** the latest trends in mobile development, currently exploring advanced SwiftUI and Combine frameworks.
 - 👯 I’m always looking to collaborate on exciting open-source iOS projects or create apps that make a positive impact!
 - 👀 My zen is Video Gaming.
-- ⚡ **Fun Fact**: I started my career developing both Android and iOS apps before focusing on iOS for the last few years.
+- ⚡ I started my career developing both Android and iOS apps before focusing on iOS for the last few years.
 
 ---
 
